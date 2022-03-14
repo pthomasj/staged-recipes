@@ -42,6 +42,7 @@ test:
 about:
   home: https://epics.anl.gov/extensions/probe/index.php
   license: EPICS
+  license_file: LICENSE
   summary: "EPICS process variable query and monitor tool"
 
 extra:
